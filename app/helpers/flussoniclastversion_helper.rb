@@ -1,0 +1,2 @@
+module FlussoniclastversionHelper
+end
